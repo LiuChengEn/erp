@@ -4,8 +4,6 @@
 * 系统默认租户账号：jsh，默认超管账户：admin，默认密码均为：123456
 * 部署如遇到困难请参考Wiki文档  https://gitee.com/jishenghua/JSH_ERP/wikis/pages
 
-* 华夏ERP参加了(2019年度最受欢迎开源中国软件评选)，欢迎小伙伴们投票 https://www.oschina.net/p/jsherp
-
 # 开发初衷
 * 华夏ERP立志为中小企业提供开源好用的ERP软件，降低企业的信息化成本
 * 个人开发者也可以使用华夏ERP进行二次开发，加快完成开发任务
